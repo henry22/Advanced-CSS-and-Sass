@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry22/Advanced-CSS-and-Sass.git"
+  },
+  "author": "HenryChien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry22/Advanced-CSS-and-Sass/issues"
+  },
+  "homepage": "https://github.com/henry22/Advanced-CSS-and-Sass#readme"
+}
