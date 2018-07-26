@@ -39,6 +39,8 @@ body {
     opacity: 1;
     transform: translateY(0); } }
 
+/* COLOR */
+/* GRID */
 body {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
@@ -69,6 +71,10 @@ body {
     animation-duration: 1s;
     animation-timing-function: ease-out; }
 
+/* COLOR */
+/* GRID */
+/* COLOR */
+/* GRID */
 .btn:link, .btn:visited {
   text-transform: uppercase;
   text-decoration: none;
@@ -136,3 +142,5 @@ body {
   max-width: 114rem;
   background-color: #eee;
   margin: 0 auto; }
+  .row:not(:last-child) {
+    margin-bottom: 8rem; }
