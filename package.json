@@ -4,7 +4,7 @@
   "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/henry22/Advanced-CSS-and-Sass/issues"
   },
-  "homepage": "https://github.com/henry22/Advanced-CSS-and-Sass#readme"
+  "homepage": "https://github.com/henry22/Advanced-CSS-and-Sass#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
 }
